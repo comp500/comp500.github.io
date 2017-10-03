@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/comp500
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://infra.link
+  * I am comp500 (https://keybase.io/comp500) on keybase.
+  * I have a public key ASAL1bTNtCzF3YK7jYL_O_OJpIV4acrKlNMbZ08cKx9PMwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01200bd5b4cdb42cc5dd82bb8d82ff3bf389a4857869caca94d31b674f1c2b1f4f330a",
+            "host": "keybase.io",
+            "kid": "01200bd5b4cdb42cc5dd82bb8d82ff3bf389a4857869caca94d31b674f1c2b1f4f330a",
+            "uid": "12dd5bc9af971653049643a590a76319",
+            "username": "comp500"
+        },
+        "service": {
+            "hostname": "infra.link",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.15"
+    },
+    "ctime": 1460562541,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1460562534,
+        "hash": "0952e2163da038eb4d258ce5ca3dc51c62472620ebe8647ec42064bd9d12be30fac62f263e5e72cc6546487262b538cb2ded9a61f7321f1b08e12a1ba26dfc77",
+        "seqno": 441130
+    },
+    "prev": "e5c8003d8105b1647bf25c7a439ee9cf91e9588f8a9bec31029074947db22f2e",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgC9W0zbQsxd2Cu42C/zvziaSFeGnKypTTG2dPHCsfTzMKp3BheWxvYWTFAvF7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMGJkNWI0Y2RiNDJjYzVkZDgyYmI4ZDgyZmYzYmYzODlhNDg1Nzg2OWNhY2E5NGQzMWI2NzRmMWMyYjFmNGYzMzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMGJkNWI0Y2RiNDJjYzVkZDgyYmI4ZDgyZmYzYmYzODlhNDg1Nzg2OWNhY2E5NGQzMWI2NzRmMWMyYjFmNGYzMzBhIiwidWlkIjoiMTJkZDViYzlhZjk3MTY1MzA0OTY0M2E1OTBhNzYzMTkiLCJ1c2VybmFtZSI6ImNvbXA1MDAifSwic2VydmljZSI6eyJob3N0bmFtZSI6ImluZnJhLmxpbmsiLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xNSJ9LCJjdGltZSI6MTQ2MDU2MjU0MSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDYwNTYyNTM0LCJoYXNoIjoiMDk1MmUyMTYzZGEwMzhlYjRkMjU4Y2U1Y2EzZGM1MWM2MjQ3MjYyMGViZTg2NDdlYzQyMDY0YmQ5ZDEyYmUzMGZhYzYyZjI2M2U1ZTcyY2M2NTQ2NDg3MjYyYjUzOGNiMmRlZDlhNjFmNzMyMWYxYjA4ZTEyYTFiYTI2ZGZjNzciLCJzZXFubyI6NDQxMTMwfSwicHJldiI6ImU1YzgwMDNkODEwNWIxNjQ3YmYyNWM3YTQzOWVlOWNmOTFlOTU4OGY4YTliZWMzMTAyOTA3NDk0N2RiMjJmMmUiLCJzZXFubyI6OCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxECsG6HW2F0Fp6YA2KO9c5XlHxgyFz+xAwGYPznG/lVkdy7pkJhFRMkwzdK2bNUH+/uQv/2jUgfh0VqG7hPP874BqHNpZ190eXBlIKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/comp500
+
+==================================================================
