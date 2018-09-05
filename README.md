@@ -6,4 +6,4 @@ This repo has basically nothing in it, just a few links and bookmarklets.
 
 ## Update 05/09/2018:
 
-I migrated to Netlify. ¯\_(ツ)_/¯
+I migrated to Netlify. ¯\\_(ツ)_/¯
