@@ -1,0 +1,7 @@
+/*
+  Content-Security-Policy: default-src 'self' ; script-src 'self' 'unsafe-inline' google-analytics.com googletagmanager.com; style-src 'self' maxcdn.bootstrapcdn.com;
+  X-Frame-Options: SAMEORIGIN
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Feature-Policy: accelerometer 'none'; camera 'none'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; payment 'none'; usb 'none'
