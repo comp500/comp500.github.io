@@ -1,0 +1,4 @@
+Contact: https://keybase.io/comp500
+Contact: mailto:webmaster@infra.link
+Encryption: https://keybase.io/comp500/pgp_keys.asc?fingerprint=4ae08423fdbfdb0cca81fd511303f4c336e3d0fe
+Signature: https://fileshare.infra.link/.well-known/security.txt.sig
